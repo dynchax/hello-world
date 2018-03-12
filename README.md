@@ -1,2 +1,5 @@
 # hello-world
-My First Repository on GitHub
+
+Hello people,
+
+Happy to be part of the GitHub community and looking forward to oodles of learning.
